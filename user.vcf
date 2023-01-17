@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Galvis;Diego;;;
-FN: Diego Galvis
+N:Moreno;Ángela;;;
+FN: Ángela Moreno
 ORG: Fresenius Kabi;
-TITLE: Jefe de Ventas
-EMAIL;type=INTERNET;type=WORK;type=pref:diego.galvis@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+57 3153599143
+TITLE: Representante de Promoción y Acceso
+EMAIL;type=INTERNET;type=WORK;type=pref:angela.moreno@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+57 3163825713
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
